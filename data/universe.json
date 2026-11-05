@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "description": "Publieke, gestructureerde canon van het Millie & Payton verhalenuniversum. Geen persoonsgegevens toevoegen.",
+  "characters": [
+    {
+      "id": "millie",
+      "name": "Millie",
+      "role": "Hoofdpersonage",
+      "age": 6,
+      "description": "Nieuwsgierige jonge avonturier; verdere karaktertrekken groeien door keuzes."
+    },
+    {
+      "id": "payton",
+      "name": "Payton",
+      "role": "Vaste avonturenpartner",
+      "description": "Payton uit Ninja Kidz; helpt Millie zonder haar keuzes over te nemen."
+    }
+  ],
+  "adventures": [],
+  "places": [],
+  "threads": [],
+  "skills": [],
+  "items": [],
+  "relationships": [],
+  "lastUpdated": null
+}
